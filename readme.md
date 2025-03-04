@@ -4,6 +4,19 @@
     This bot transfer tokens from main wallet to 10000 new wallets.
     These 10000 wallet private keys are saved in "data2.json"
 
+
+
+## 💬Contact Me
+
+If you have any question or something, feel free to reach out me anytime via telegram, discord or twitter.
+<br>
+#### 🌹You're always welcome🌹
+
+Telegram: [@erikerik116](https://t.me/erikerik116) <br>
+Discord: [@erikerik116](https://discordapp.com/users/304228787250528256) <br>
+Twitter: [@erikerikerik116](https://x.com/erikerikerik116)
+
+
 ## parameta in env file
 1. BASE_MINT=   # Token mint address
  
